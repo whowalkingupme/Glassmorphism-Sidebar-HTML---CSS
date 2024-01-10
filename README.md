@@ -1,6 +1,6 @@
 # How to Create Glassmorphism Sidebar in HTML and CSS
 
-
+![How-to-a-Create-Glassmorphism-Sidebar-in-HTML-and-CSS-only](https://github.com/whowalkingupme/Glassmorphism-Sidebar-HTML---CSS/assets/46256884/e4cfcda8-fe46-4941-bac5-a113b67c2a83)
 
 As a beginner web developer, have you ever wondered how to create sidebars like the ones you’ve seen on websites or apps? With just HTML and CSS, you can build your own stylish sidebars with the trendy glassmorphism effect. This not only teaches you how to make popular UI components but also lets you apply the modern glassmorphism style to your designs.
 
